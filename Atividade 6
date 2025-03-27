@@ -16,3 +16,4 @@ programa {
     escreva ("\nSeu nome é "+nome+", você tem "+idade+" anos de idade e tem "+altura+" metros de altura.\n")
   }
 }
+ 
